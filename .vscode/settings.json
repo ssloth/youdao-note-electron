@@ -1,0 +1,21 @@
+{
+  "prettier.eslintIntegration": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "vetur.format.defaultFormatter": {
+    "html": "none",
+    "css": "prettier",
+    "postcss": "prettier",
+    "scss": "prettier",
+    "less": "prettier",
+    "js": "prettier",
+    "ts": "prettier",
+    "stylus": "stylus-supremacy"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "vue"
+  ]
+}

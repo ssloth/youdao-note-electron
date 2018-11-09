@@ -1,15 +1,16 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
-  </div>
+<div id="app">
+  <router-view></router-view>
+</div>
 </template>
 
 <script>
-  export default {
-    name: 'youdao-note-electron'
-  }
+import { mark } from 'markdowm';
+export default {
+   name: 'youdao-note-electron',
+};
 </script>
 
 <style>
-  /* CSS */
+/* CSS */
 </style>
