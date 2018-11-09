@@ -5,9 +5,8 @@
 </template>
 
 <script>
-import { mark } from 'markdowm';
 export default {
-   name: 'youdao-note-electron',
+  name: 'youdao-note-electron',
 };
 </script>
 
