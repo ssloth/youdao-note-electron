@@ -7,7 +7,7 @@
 <script>
 export default {
   name: 'youdao-note-electron'
-}
+};
 </script>
 
 <style>

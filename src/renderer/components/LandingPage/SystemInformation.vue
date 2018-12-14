@@ -40,9 +40,9 @@ export default {
       path: this.$route.path,
       platform: require('os').platform(),
       vue: require('vue/package.json').version
-    }
+    };
   }
-}
+};
 </script>
 
 <style scoped>
