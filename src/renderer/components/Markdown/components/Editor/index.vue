@@ -3,10 +3,7 @@
 </template>
 
 <script>
-  import { ace } from "ace";
-  export default {
-    
-  }
+export default {}
 </script>
 
 <style>
